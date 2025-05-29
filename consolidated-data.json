@@ -105923,5 +105923,102 @@
                 "shares": 144
             }
         ]
+    },
+    "1748550600000": {
+        "date": "2025-05-29T20:30:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 64
+            },
+            {
+                "node": "ITX",
+                "shares": 96
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 16
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 240
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 128
+            },
+            {
+                "node": "STUDENTDB",
+                "shares": 48
+            },
+            {
+                "node": "WORKER02",
+                "shares": 96
+            },
+            {
+                "node": "WORKER07",
+                "shares": 32
+            },
+            {
+                "node": "WORKER08",
+                "shares": 32
+            },
+            {
+                "node": "WORKER09",
+                "shares": 112
+            },
+            {
+                "node": "WORKER10",
+                "shares": 224
+            },
+            {
+                "node": "WORKER13",
+                "shares": 160
+            },
+            {
+                "node": "WORKER14",
+                "shares": 128
+            },
+            {
+                "node": "WORKER16",
+                "shares": 32
+            },
+            {
+                "node": "WORKER20",
+                "shares": 176
+            },
+            {
+                "node": "WORKER21",
+                "shares": 224
+            },
+            {
+                "node": "WORKER22",
+                "shares": 176
+            },
+            {
+                "node": "WORKER23",
+                "shares": 240
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 32
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 64
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 64
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 80
+            }
+        ]
     }
 }
