@@ -97774,5 +97774,58 @@
                 "shares": 80
             }
         ]
+    },
+    "1749172200000": {
+        "date": "2025-06-06T01:10:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 144
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 64
+            },
+            {
+                "node": "SUPPORT",
+                "shares": 80
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 48
+            },
+            {
+                "node": "WORKER13",
+                "shares": 96
+            },
+            {
+                "node": "WORKER14",
+                "shares": 80
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 16
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 32
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 112
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 96
+            }
+        ]
     }
 }
