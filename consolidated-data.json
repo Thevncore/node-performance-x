@@ -1,299 +1,4 @@
 {
-    "1749229800000": {
-        "date": "2025-06-06T17:10:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 96
-            },
-            {
-                "node": "ITX",
-                "shares": 64
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 16
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 80
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
-                "node": "WORKER02",
-                "shares": 16
-            },
-            {
-                "node": "WORKER07",
-                "shares": 32
-            },
-            {
-                "node": "WORKER08",
-                "shares": 112
-            },
-            {
-                "node": "WORKER09",
-                "shares": 224
-            },
-            {
-                "node": "WORKER10",
-                "shares": 320
-            },
-            {
-                "node": "WORKER13",
-                "shares": 192
-            },
-            {
-                "node": "WORKER14",
-                "shares": 128
-            },
-            {
-                "node": "WORKER16",
-                "shares": 48
-            },
-            {
-                "node": "WORKER20",
-                "shares": 176
-            },
-            {
-                "node": "WORKER21",
-                "shares": 256
-            },
-            {
-                "node": "WORKER22",
-                "shares": 176
-            },
-            {
-                "node": "WORKER23",
-                "shares": 208
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 32
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 112
-            }
-        ]
-    },
-    "1749230400000": {
-        "date": "2025-06-06T17:20:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITX",
-                "shares": 48
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 16
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 64
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "SUPPORT",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
-                "node": "WORKER02",
-                "shares": 48
-            },
-            {
-                "node": "WORKER07",
-                "shares": 16
-            },
-            {
-                "node": "WORKER08",
-                "shares": 48
-            },
-            {
-                "node": "WORKER09",
-                "shares": 208
-            },
-            {
-                "node": "WORKER10",
-                "shares": 144
-            },
-            {
-                "node": "WORKER13",
-                "shares": 208
-            },
-            {
-                "node": "WORKER14",
-                "shares": 160
-            },
-            {
-                "node": "WORKER16",
-                "shares": 64
-            },
-            {
-                "node": "WORKER20",
-                "shares": 160
-            },
-            {
-                "node": "WORKER21",
-                "shares": 240
-            },
-            {
-                "node": "WORKER22",
-                "shares": 192
-            },
-            {
-                "node": "WORKER23",
-                "shares": 208
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 48
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 96
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 112
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 80
-            }
-        ]
-    },
-    "1749231000000": {
-        "date": "2025-06-06T17:30:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 96
-            },
-            {
-                "node": "ITX",
-                "shares": 80
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 32
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 64
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 112
-            },
-            {
-                "node": "SUPPORT",
-                "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
-                "node": "WORKER02",
-                "shares": 32
-            },
-            {
-                "node": "WORKER07",
-                "shares": 32
-            },
-            {
-                "node": "WORKER08",
-                "shares": 32
-            },
-            {
-                "node": "WORKER09",
-                "shares": 128
-            },
-            {
-                "node": "WORKER10",
-                "shares": 112
-            },
-            {
-                "node": "WORKER13",
-                "shares": 48
-            },
-            {
-                "node": "WORKER14",
-                "shares": 176
-            },
-            {
-                "node": "WORKER16",
-                "shares": 16
-            },
-            {
-                "node": "WORKER20",
-                "shares": 240
-            },
-            {
-                "node": "WORKER21",
-                "shares": 208
-            },
-            {
-                "node": "WORKER22",
-                "shares": 144
-            },
-            {
-                "node": "WORKER23",
-                "shares": 224
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 64
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 112
-            }
-        ]
-    },
     "1749231600000": {
         "date": "2025-06-06T17:40:00.000Z",
         "nodes": [
@@ -102874,6 +102579,107 @@
             {
                 "node": "WORKERS2",
                 "shares": 64
+            }
+        ]
+    },
+    "1749835800000": {
+        "date": "2025-06-13T17:30:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLFAST",
+                "shares": 16
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 160
+            },
+            {
+                "node": "ITX",
+                "shares": 112
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 16
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 208
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 96
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 32
+            },
+            {
+                "node": "WORKER07",
+                "shares": 16
+            },
+            {
+                "node": "WORKER08",
+                "shares": 16
+            },
+            {
+                "node": "WORKER09",
+                "shares": 144
+            },
+            {
+                "node": "WORKER10",
+                "shares": 240
+            },
+            {
+                "node": "WORKER13",
+                "shares": 128
+            },
+            {
+                "node": "WORKER14",
+                "shares": 128
+            },
+            {
+                "node": "WORKER16",
+                "shares": 48
+            },
+            {
+                "node": "WORKER18",
+                "shares": 48
+            },
+            {
+                "node": "WORKER20",
+                "shares": 144
+            },
+            {
+                "node": "WORKER21",
+                "shares": 176
+            },
+            {
+                "node": "WORKER22",
+                "shares": 192
+            },
+            {
+                "node": "WORKER23",
+                "shares": 176
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 16
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 32
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 64
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 80
             }
         ]
     }
