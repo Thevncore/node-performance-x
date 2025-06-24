@@ -114243,6 +114243,18 @@
         "date": "2025-06-24T14:30:00.000Z",
         "nodes": [
             {
+                "node": "ITLFAST",
+                "shares": 32
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 144
+            },
+            {
+                "node": "ITX",
+                "shares": 128
+            },
+            {
                 "node": "KHOACDHA02",
                 "shares": 16
             },
