@@ -114376,6 +114376,70 @@
         "date": "2025-06-26T12:00:00.000Z",
         "nodes": [
             {
+                "node": "ITLFAST",
+                "shares": 48
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 96
+            },
+            {
+                "node": "ITX",
+                "shares": 112
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 16
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 144
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 64
+            },
+            {
+                "node": "SUPPORT",
+                "shares": 48
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 16
+            },
+            {
+                "node": "WORKER02",
+                "shares": 32
+            },
+            {
+                "node": "WORKER07",
+                "shares": 96
+            },
+            {
+                "node": "WORKER08",
+                "shares": 112
+            },
+            {
+                "node": "WORKER09",
+                "shares": 256
+            },
+            {
+                "node": "WORKER10",
+                "shares": 128
+            },
+            {
+                "node": "WORKER13",
+                "shares": 144
+            },
+            {
+                "node": "WORKER14",
+                "shares": 112
+            },
+            {
+                "node": "WORKER15",
+                "shares": 48
+            },
+            {
                 "node": "WORKER16",
                 "shares": 32
             },
