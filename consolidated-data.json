@@ -116527,6 +116527,38 @@
         "date": "2025-10-09T06:20:00.000Z",
         "nodes": [
             {
+                "node": "ITLFAST",
+                "shares": 32
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "ITX",
+                "shares": 96
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 32
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 96
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 144
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 32
+            },
+            {
+                "node": "WORKER02",
+                "shares": 48
+            },
+            {
                 "node": "WORKER07",
                 "shares": 32
             },
