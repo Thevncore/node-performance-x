@@ -1,43 +1,4 @@
 {
-    "1760302200000": {
-        "date": "2025-10-12T20:50:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLFAST",
-                "shares": 64
-            }
-        ]
-    },
-    "1760302800000": {
-        "date": "2025-10-12T21:00:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLFAST",
-                "shares": 32
-            },
-            {
-                "node": "ITLGATEWAY",
-                "shares": 96
-            }
-        ]
-    },
-    "1760303400000": {
-        "date": "2025-10-12T21:10:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLFAST",
-                "shares": 16
-            },
-            {
-                "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITX",
-                "shares": 144
-            }
-        ]
-    },
     "1760304000000": {
         "date": "2025-10-12T21:20:00.000Z",
         "nodes": [
@@ -118587,6 +118548,127 @@
             {
                 "node": "WORKERSDH",
                 "shares": 96
+            }
+        ]
+    },
+    "1760908800000": {
+        "date": "2025-10-19T21:20:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLFAST",
+                "shares": 80
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "ITX",
+                "shares": 112
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 96
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 160
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 80
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 48
+            },
+            {
+                "node": "WORKER02",
+                "shares": 32
+            },
+            {
+                "node": "WORKER07",
+                "shares": 48
+            },
+            {
+                "node": "WORKER08",
+                "shares": 80
+            },
+            {
+                "node": "WORKER09",
+                "shares": 144
+            },
+            {
+                "node": "WORKER10",
+                "shares": 224
+            },
+            {
+                "node": "WORKER13",
+                "shares": 80
+            },
+            {
+                "node": "WORKER14",
+                "shares": 144
+            },
+            {
+                "node": "WORKER15",
+                "shares": 48
+            },
+            {
+                "node": "WORKER16",
+                "shares": 16
+            },
+            {
+                "node": "WORKER17",
+                "shares": 32
+            },
+            {
+                "node": "WORKER18",
+                "shares": 32
+            },
+            {
+                "node": "WORKER20",
+                "shares": 144
+            },
+            {
+                "node": "WORKER21",
+                "shares": 208
+            },
+            {
+                "node": "WORKER22",
+                "shares": 208
+            },
+            {
+                "node": "WORKER23",
+                "shares": 192
+            },
+            {
+                "node": "WORKER24",
+                "shares": 160
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 48
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 96
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 128
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 144
+            },
+            {
+                "node": "WORKERSDH",
+                "shares": 144
             }
         ]
     }
