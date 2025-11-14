@@ -136,10 +136,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -576,10 +572,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -787,10 +779,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -1020,10 +1008,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -1131,10 +1115,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -1252,10 +1232,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -1476,10 +1452,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -1696,10 +1668,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -2481,10 +2449,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -2717,10 +2681,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 64
             },
             {
                 "node": "WORKER02",
@@ -3276,10 +3236,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -3498,10 +3454,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -3604,10 +3556,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -3728,10 +3676,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -3845,10 +3789,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -3955,10 +3895,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 48
             },
             {
@@ -4303,10 +4239,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -4991,10 +4923,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -5221,10 +5149,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -5336,10 +5260,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -5562,10 +5482,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 160
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -5794,10 +5710,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -5905,10 +5817,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -6250,10 +6158,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER07",
                 "shares": 16
             },
@@ -6361,10 +6265,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -6579,10 +6479,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -6807,10 +6703,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -7033,10 +6925,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -7144,10 +7032,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -7260,10 +7144,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -7485,10 +7365,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -7592,10 +7468,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -7715,10 +7587,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -7818,10 +7686,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -7939,10 +7803,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -8167,10 +8027,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -8389,10 +8245,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 64
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -8499,10 +8351,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -8617,10 +8465,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -9063,10 +8907,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -9174,10 +9014,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -9295,10 +9131,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -9854,10 +9686,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -10205,10 +10033,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -10548,10 +10372,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -10663,10 +10483,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -10891,10 +10707,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -11005,10 +10817,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -11238,10 +11046,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -11349,10 +11153,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -11571,10 +11371,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -12235,10 +12031,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -12574,10 +12366,6 @@
                 "shares": 160
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -12693,10 +12481,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -12929,10 +12713,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -13160,10 +12940,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -13510,10 +13286,6 @@
                 "shares": 160
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -13740,10 +13512,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -13861,10 +13629,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -13978,10 +13742,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -14091,10 +13851,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -14198,10 +13954,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -14430,10 +14182,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -14545,10 +14293,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -14777,10 +14521,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -14892,10 +14632,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -15471,10 +15207,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -15586,10 +15318,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -15818,10 +15546,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -15939,10 +15663,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -16050,10 +15770,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -16167,10 +15883,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -16619,10 +16331,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -17172,10 +16880,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -18078,10 +17782,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -18185,10 +17885,6 @@
             {
                 "node": "PORTALDB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -18298,10 +17994,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 144
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -18415,10 +18107,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -18536,10 +18224,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -19426,10 +19110,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -19983,10 +19663,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -20318,10 +19994,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -20550,10 +20222,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -20875,10 +20543,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -20994,10 +20658,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -22219,10 +21879,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -22570,10 +22226,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -22786,10 +22438,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -23016,10 +22664,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER08",
@@ -23357,10 +23001,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -23575,10 +23215,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER08",
                 "shares": 16
             },
@@ -23682,10 +23318,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -23914,10 +23546,6 @@
                 "shares": 160
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -24029,10 +23657,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -24253,10 +23877,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -24368,10 +23988,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -24709,10 +24325,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -24941,10 +24553,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -25831,10 +25439,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER08",
                 "shares": 80
             },
@@ -25942,10 +25546,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -26392,10 +25992,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -26499,10 +26095,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -26735,10 +26327,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -26854,10 +26442,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -27084,10 +26668,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER07",
@@ -27542,10 +27122,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -27649,10 +27225,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -27768,10 +27340,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -27875,10 +27443,6 @@
             {
                 "node": "PORTALDB",
                 "shares": 208
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -28446,10 +28010,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -28555,10 +28115,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -28658,10 +28214,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -28779,10 +28331,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -29019,10 +28567,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -29134,10 +28678,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -29253,10 +28793,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -29368,10 +28904,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -29604,10 +29136,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -29725,10 +29253,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -29840,10 +29364,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -29959,10 +29479,6 @@
                 "shares": 144
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -30074,10 +29590,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -30294,10 +29806,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -30405,10 +29913,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -30623,10 +30127,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -30952,10 +30452,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -31170,10 +30666,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -31285,10 +30777,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -31404,10 +30892,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -31517,10 +31001,6 @@
                 "shares": 160
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -31627,10 +31107,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 64
             },
             {
@@ -32280,10 +31756,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -32391,10 +31863,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -32621,10 +32089,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -32954,10 +32418,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -33073,10 +32533,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -33293,10 +32749,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 16
             },
@@ -33399,10 +32851,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -33513,10 +32961,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -33632,10 +33076,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -33743,10 +33183,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -33858,10 +33294,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -33969,10 +33401,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -34088,10 +33516,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -34202,10 +33626,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -34435,10 +33855,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -34542,10 +33958,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -34774,10 +34186,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -34881,10 +34289,6 @@
             {
                 "node": "PORTALDB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -35208,10 +34612,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -35763,10 +35163,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -35993,10 +35389,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -36104,10 +35496,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -36220,10 +35608,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -36340,10 +35724,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -36455,10 +35835,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 64
             },
             {
                 "node": "WORKER02",
@@ -36671,10 +36047,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -36786,10 +36158,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -37458,10 +36826,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -37572,10 +36936,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 48
             },
             {
@@ -37805,10 +37165,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -37924,10 +37280,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 144
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -38491,10 +37843,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -38606,10 +37954,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -39052,10 +38396,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -39159,10 +38499,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 144
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -39278,10 +38614,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -39385,10 +38717,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 144
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -39726,10 +39054,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -40057,10 +39381,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -40168,10 +39488,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -40731,10 +40047,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -40842,10 +40154,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -41068,10 +40376,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -41300,10 +40604,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 64
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -41417,10 +40717,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 64
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -41528,10 +40824,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -41756,10 +41048,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -41875,10 +41163,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -42210,10 +41494,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -42644,10 +41924,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -42757,10 +42033,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -42864,10 +42136,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -43082,10 +42350,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -43526,10 +42790,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -44202,10 +43462,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -44313,10 +43569,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -44436,10 +43688,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -44551,10 +43799,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 144
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -44775,10 +44019,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -44890,10 +44130,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -45115,10 +44351,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -45348,10 +44580,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -45451,10 +44679,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -45679,10 +44903,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -45794,10 +45014,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -45913,10 +45129,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -46028,10 +45240,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -46151,10 +45359,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -46262,10 +45466,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -46498,10 +45698,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -46613,10 +45809,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER07",
@@ -47055,10 +46247,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -47170,10 +46358,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -47291,10 +46475,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -47519,10 +46699,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -47640,10 +46816,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -47750,10 +46922,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 64
             },
             {
@@ -48088,10 +47256,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -48314,10 +47478,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 96
             },
@@ -48421,10 +47581,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -48538,10 +47694,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -48988,10 +48140,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -49095,10 +48243,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -49210,10 +48354,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -49323,10 +48463,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -49434,10 +48570,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -49551,10 +48683,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -50231,10 +49359,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -50348,10 +49472,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -50463,10 +49583,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -50586,10 +49702,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -50693,10 +49805,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -51249,10 +50357,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -51813,10 +50917,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -51924,10 +51024,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -52041,10 +51137,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -52386,10 +51478,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -52501,10 +51589,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -52737,10 +51821,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -52855,10 +51935,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 48
             },
             {
@@ -53086,10 +52162,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -53322,10 +52394,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -53441,10 +52509,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -53671,10 +52735,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -54008,10 +53068,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -54129,10 +53185,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -54240,10 +53292,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -54686,10 +53734,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -54789,10 +53833,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -55021,10 +54061,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -55135,10 +54171,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -55257,10 +54289,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 160
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -55699,10 +54727,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -55919,10 +54943,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -56260,10 +55280,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -56377,10 +55393,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -56492,10 +55504,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -56837,10 +55845,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -56958,10 +55962,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -57072,10 +56072,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 48
             },
             {
@@ -57515,10 +56511,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -57628,10 +56620,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -57739,10 +56727,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -57975,10 +56959,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -58090,10 +57070,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -58209,10 +57185,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -58324,10 +57296,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 64
             },
             {
                 "node": "WORKER02",
@@ -58665,10 +57633,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 96
             },
@@ -58786,10 +57750,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -58901,10 +57861,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -59020,10 +57976,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -59131,10 +58083,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -59363,10 +58311,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -59474,10 +58418,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -59589,10 +58529,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -59696,10 +58632,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -59932,10 +58864,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -60045,10 +58973,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -60152,10 +59076,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -61123,10 +60043,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -61454,10 +60370,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -61569,10 +60481,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -61890,10 +60798,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -61989,10 +60893,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -62189,10 +61089,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -62387,10 +61283,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 240
             },
@@ -62486,10 +61378,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -62872,10 +61760,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 160
             },
@@ -63169,10 +62053,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -63474,10 +62354,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -63662,10 +62538,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -64048,10 +62920,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 176
             },
@@ -64153,10 +63021,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -64247,10 +63111,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -64345,10 +63205,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -64628,10 +63484,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -65016,10 +63868,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -65596,10 +64444,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 192
             },
@@ -65695,10 +64539,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -65800,10 +64640,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -66004,10 +64840,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -66105,10 +64937,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER09",
                 "shares": 208
             },
@@ -66200,10 +65028,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -66305,10 +65129,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -66513,10 +65333,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 272
             },
@@ -66697,10 +65513,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -67200,10 +66012,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER09",
                 "shares": 128
             },
@@ -67297,10 +66105,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 112
             },
@@ -67391,10 +66195,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -67592,10 +66392,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER09",
                 "shares": 176
             },
@@ -67697,10 +66493,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 224
             },
@@ -67796,10 +66588,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER09",
@@ -68291,10 +67079,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 48
             },
@@ -68582,10 +67366,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 144
             },
@@ -68681,10 +67461,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -69152,10 +67928,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 192
             },
@@ -69350,10 +68122,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER09",
                 "shares": 160
             },
@@ -69449,10 +68217,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -69554,10 +68318,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -69758,10 +68518,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER09",
                 "shares": 256
             },
@@ -69849,10 +68605,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -69946,10 +68698,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER09",
@@ -70051,10 +68799,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER09",
@@ -70671,10 +69415,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -70903,10 +69643,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -71252,10 +69988,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -71369,10 +70101,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -71484,10 +70212,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -71930,10 +70654,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 16
             },
@@ -72142,10 +70862,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -72479,10 +71195,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -72586,10 +71298,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -72703,10 +71411,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -72939,10 +71643,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -73163,10 +71863,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -73504,10 +72200,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -73722,10 +72414,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -73829,10 +72517,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -74172,10 +72856,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -74739,10 +73419,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -74852,10 +73528,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -74959,10 +73631,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -75191,10 +73859,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -75415,10 +74079,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -75954,10 +74614,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -76069,10 +74725,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -76410,10 +75062,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -76513,10 +75161,6 @@
             {
                 "node": "PORTALDB",
                 "shares": 176
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -76632,10 +75276,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -76739,10 +75379,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -76856,10 +75492,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -77540,10 +76172,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -78218,10 +76846,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -78333,10 +76957,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -78555,10 +77175,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -79114,10 +77730,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -79235,10 +77847,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -79352,10 +77960,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -79458,10 +78062,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -79689,10 +78289,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -80139,10 +78735,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -80260,10 +78852,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -80379,10 +78967,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -80843,10 +79427,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -81503,10 +80083,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -81613,10 +80189,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 64
             },
             {
@@ -81854,10 +80426,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -82088,10 +80656,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -82198,10 +80762,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -82661,10 +81221,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -82768,10 +81324,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -82885,10 +81437,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -83006,10 +81554,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -83226,10 +81770,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -83333,10 +81873,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -83452,10 +81988,6 @@
                 "shares": 112
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -83569,10 +82101,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -83680,10 +82208,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -83796,10 +82320,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -84023,10 +82543,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -84259,10 +82775,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 64
             },
@@ -84376,10 +82888,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -84491,10 +82999,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -84844,10 +83348,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -84961,10 +83461,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -85074,10 +83570,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -85185,10 +83677,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -85301,10 +83789,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -85643,10 +84127,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -85869,10 +84349,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 64
             },
@@ -86087,10 +84563,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -86206,10 +84678,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -86640,10 +85108,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -86759,10 +85223,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -87096,10 +85556,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -87322,10 +85778,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -87437,10 +85889,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -87556,10 +86004,6 @@
                 "shares": 128
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -87667,10 +86111,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER07",
@@ -87899,10 +86339,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -88018,10 +86454,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -88254,10 +86686,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -88365,10 +86793,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -88702,10 +87126,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -88928,10 +87348,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -89152,10 +87568,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -89388,10 +87800,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -89505,10 +87913,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -89616,10 +88020,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -89848,10 +88248,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -90078,10 +88474,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -90185,10 +88577,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -90308,10 +88696,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -90419,10 +88803,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -90764,10 +89144,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -90881,10 +89257,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -90984,10 +89356,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -91093,10 +89461,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -91430,10 +89794,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -91540,10 +89900,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -91654,10 +90010,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -91777,10 +90129,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -91886,10 +90234,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -91993,10 +90337,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -92116,10 +90456,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -92237,10 +90573,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 64
-            },
-            {
                 "node": "WORKER07",
                 "shares": 48
             },
@@ -92336,10 +90668,6 @@
             {
                 "node": "PORTALDB",
                 "shares": 256
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -92790,10 +91118,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -93230,10 +91554,6 @@
                 "shares": 144
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -93345,10 +91665,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -93682,10 +91998,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -94013,10 +92325,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -94134,10 +92442,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 16
             },
@@ -94245,10 +92549,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -94360,10 +92660,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -94467,10 +92763,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -94681,10 +92973,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -94901,10 +93189,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -95016,10 +93300,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -95139,10 +93419,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -95252,10 +93528,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -95363,10 +93635,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -95479,10 +93747,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -95599,10 +93863,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -95713,10 +93973,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -95940,10 +94196,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 128
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -96285,10 +94537,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -96515,10 +94763,6 @@
                 "shares": 192
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -96634,10 +94878,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -96860,10 +95100,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -97098,10 +95334,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -97665,10 +95897,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -98230,10 +96458,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -98464,10 +96688,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER07",
                 "shares": 32
             },
@@ -98579,10 +96799,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -98924,10 +97140,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -99045,10 +97257,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -99159,10 +97367,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -99392,10 +97596,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -99507,10 +97707,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -100187,10 +98383,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -100627,10 +98819,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -100744,10 +98932,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -100857,10 +99041,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -100968,10 +99148,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -101414,10 +99590,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -101535,10 +99707,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -101642,10 +99810,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -101882,10 +100046,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -102108,10 +100268,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -102223,10 +100379,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 96
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -102455,10 +100607,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -102570,10 +100718,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 32
             },
             {
                 "node": "WORKER02",
@@ -102691,10 +100835,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -102920,10 +101060,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -103254,10 +101390,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -103480,10 +101612,6 @@
                 "shares": 80
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -103704,10 +101832,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -104049,10 +102173,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -104392,10 +102512,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -104618,10 +102734,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -104733,10 +102845,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 112
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -104852,10 +102960,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -104963,10 +103067,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -105199,10 +103299,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 112
             },
@@ -105302,10 +103398,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -105415,10 +103507,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -106301,10 +104389,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER07",
                 "shares": 64
             },
@@ -106523,10 +104607,6 @@
                 "shares": 144
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -106644,10 +104724,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -106761,10 +104837,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -106875,10 +104947,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 32
             },
             {
@@ -107439,10 +105507,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -107657,10 +105721,6 @@
                 "shares": 48
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -107768,10 +105828,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -108097,10 +106153,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -108216,10 +106268,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 48
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -108434,10 +106482,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -108775,10 +106819,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -108892,10 +106932,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 32
-            },
-            {
                 "node": "WORKER02",
                 "shares": 16
             },
@@ -109007,10 +107043,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
             },
             {
                 "node": "WORKER02",
@@ -110345,10 +108377,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -110797,10 +108825,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -110912,10 +108936,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 80
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -111031,10 +109051,6 @@
                 "shares": 32
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 64
             },
@@ -111148,10 +109164,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER08",
                 "shares": 32
             },
@@ -111251,10 +109263,6 @@
             {
                 "node": "PORTALLB",
                 "shares": 64
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 48
             },
             {
                 "node": "WORKER02",
@@ -111923,10 +109931,6 @@
                 "shares": 96
             },
             {
-                "node": "SUPPORT2",
-                "shares": 48
-            },
-            {
                 "node": "WORKER02",
                 "shares": 80
             },
@@ -112274,10 +110278,6 @@
                 "shares": 64
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 48
             },
@@ -112504,10 +110504,6 @@
                 "shares": 16
             },
             {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
                 "node": "WORKER02",
                 "shares": 32
             },
@@ -112614,10 +110610,6 @@
             },
             {
                 "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
                 "shares": 16
             },
             {
@@ -112937,6 +110929,115 @@
             {
                 "node": "WORKERSDH",
                 "shares": 112
+            }
+        ]
+    },
+    "1763132400000": {
+        "date": "2025-11-14T15:00:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLFAST",
+                "shares": 80
+            },
+            {
+                "node": "ITLGATEWAY",
+                "shares": 160
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 48
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 192
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 64
+            },
+            {
+                "node": "WORKER02",
+                "shares": 80
+            },
+            {
+                "node": "WORKER07",
+                "shares": 48
+            },
+            {
+                "node": "WORKER08",
+                "shares": 64
+            },
+            {
+                "node": "WORKER09",
+                "shares": 144
+            },
+            {
+                "node": "WORKER10",
+                "shares": 208
+            },
+            {
+                "node": "WORKER13",
+                "shares": 80
+            },
+            {
+                "node": "WORKER14",
+                "shares": 96
+            },
+            {
+                "node": "WORKER15",
+                "shares": 48
+            },
+            {
+                "node": "WORKER16",
+                "shares": 32
+            },
+            {
+                "node": "WORKER17",
+                "shares": 16
+            },
+            {
+                "node": "WORKER18",
+                "shares": 32
+            },
+            {
+                "node": "WORKER20",
+                "shares": 224
+            },
+            {
+                "node": "WORKER21",
+                "shares": 160
+            },
+            {
+                "node": "WORKER22",
+                "shares": 128
+            },
+            {
+                "node": "WORKER23",
+                "shares": 176
+            },
+            {
+                "node": "WORKER24",
+                "shares": 176
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 32
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 96
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 128
+            },
+            {
+                "node": "WORKERSDH",
+                "shares": 176
             }
         ]
     }
