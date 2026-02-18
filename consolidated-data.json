@@ -1,368 +1,9 @@
 {
-    "1770810000000": {
-        "date": "2026-02-11T11:40:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
-                "node": "ITX",
-                "shares": 80
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 16
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 48
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 160
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
-                "node": "WORKER02",
-                "shares": 48
-            },
-            {
-                "node": "WORKER07",
-                "shares": 48
-            },
-            {
-                "node": "WORKER08",
-                "shares": 48
-            },
-            {
-                "node": "WORKER09",
-                "shares": 176
-            },
-            {
-                "node": "WORKER10",
-                "shares": 96
-            },
-            {
-                "node": "WORKER13",
-                "shares": 128
-            },
-            {
-                "node": "WORKER14",
-                "shares": 112
-            },
-            {
-                "node": "WORKER15",
-                "shares": 16
-            },
-            {
-                "node": "WORKER16",
-                "shares": 64
-            },
-            {
-                "node": "WORKER17",
-                "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
-                "node": "WORKER20",
-                "shares": 224
-            },
-            {
-                "node": "WORKER21",
-                "shares": 240
-            },
-            {
-                "node": "WORKER22",
-                "shares": 160
-            },
-            {
-                "node": "WORKER23",
-                "shares": 288
-            },
-            {
-                "node": "WORKER24",
-                "shares": 112
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 48
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 48
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 96
-            }
-        ]
-    },
-    "1770810600000": {
-        "date": "2026-02-11T11:50:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
-                "node": "ITX",
-                "shares": 144
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 32
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 80
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 144
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "WORKER02",
-                "shares": 32
-            },
-            {
-                "node": "WORKER07",
-                "shares": 16
-            },
-            {
-                "node": "WORKER08",
-                "shares": 32
-            },
-            {
-                "node": "WORKER09",
-                "shares": 192
-            },
-            {
-                "node": "WORKER10",
-                "shares": 160
-            },
-            {
-                "node": "WORKER13",
-                "shares": 192
-            },
-            {
-                "node": "WORKER14",
-                "shares": 128
-            },
-            {
-                "node": "WORKER15",
-                "shares": 16
-            },
-            {
-                "node": "WORKER17",
-                "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 112
-            },
-            {
-                "node": "WORKER20",
-                "shares": 224
-            },
-            {
-                "node": "WORKER21",
-                "shares": 224
-            },
-            {
-                "node": "WORKER22",
-                "shares": 192
-            },
-            {
-                "node": "WORKER23",
-                "shares": 176
-            },
-            {
-                "node": "WORKER24",
-                "shares": 160
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 16
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 48
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 96
-            }
-        ]
-    },
-    "1770811200000": {
-        "date": "2026-02-11T12:00:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
-                "node": "ITX",
-                "shares": 64
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 16
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 48
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 32
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 16
-            },
-            {
-                "node": "SUPPORT2",
-                "shares": 16
-            },
-            {
-                "node": "WORKER02",
-                "shares": 48
-            },
-            {
-                "node": "WORKER07",
-                "shares": 80
-            },
-            {
-                "node": "WORKER08",
-                "shares": 96
-            },
-            {
-                "node": "WORKER09",
-                "shares": 176
-            },
-            {
-                "node": "WORKER10",
-                "shares": 208
-            },
-            {
-                "node": "WORKER13",
-                "shares": 96
-            },
-            {
-                "node": "WORKER14",
-                "shares": 192
-            },
-            {
-                "node": "WORKER15",
-                "shares": 48
-            },
-            {
-                "node": "WORKER16",
-                "shares": 64
-            },
-            {
-                "node": "WORKER17",
-                "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
-                "node": "WORKER20",
-                "shares": 192
-            },
-            {
-                "node": "WORKER21",
-                "shares": 192
-            },
-            {
-                "node": "WORKER22",
-                "shares": 128
-            },
-            {
-                "node": "WORKER23",
-                "shares": 48
-            },
-            {
-                "node": "WORKER24",
-                "shares": 144
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 112
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 16
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 96
-            }
-        ]
-    },
     "1770811800000": {
         "date": "2026-02-11T12:10:00.000Z",
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -479,10 +120,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -592,10 +229,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -703,10 +336,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -935,10 +564,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -1159,10 +784,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -1391,10 +1012,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -1498,10 +1115,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -1621,10 +1234,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -1730,10 +1339,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -1837,10 +1442,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -2061,10 +1662,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -2172,10 +1769,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -2289,10 +1882,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -2517,10 +2106,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -2626,10 +2211,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -2733,10 +2314,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -2848,10 +2425,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -2959,10 +2532,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -3183,10 +2752,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -3298,10 +2863,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -3522,10 +3083,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -3625,10 +3182,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -3736,10 +3289,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -3843,10 +3392,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -3966,10 +3511,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -4069,10 +3610,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -4281,10 +3818,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -4376,10 +3909,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -4491,10 +4020,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -4598,10 +4123,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -4713,10 +4234,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -4816,10 +4333,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -4935,10 +4448,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -5046,10 +4555,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -5165,10 +4670,6 @@
         "date": "2026-02-11T19:20:00.000Z",
         "nodes": [
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 224
             },
@@ -5272,10 +4773,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -5387,10 +4884,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -5498,10 +4991,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -5714,10 +5203,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -5825,10 +5310,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -6049,10 +5530,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -6166,10 +5643,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 208
             },
@@ -6281,10 +5754,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -6513,10 +5982,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -6735,10 +6200,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -6838,10 +6299,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -6961,10 +6418,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -7064,10 +6517,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -7183,10 +6632,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -7298,10 +6743,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -7421,10 +6862,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -7538,10 +6975,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -7647,10 +7080,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -7754,10 +7183,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -7873,10 +7298,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -7980,10 +7401,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -8091,10 +7508,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -8198,10 +7611,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -8317,10 +7726,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -8432,10 +7837,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -8551,10 +7952,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -8668,10 +8065,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -8775,10 +8168,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -8892,10 +8281,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -9015,10 +8400,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -9118,10 +8499,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -9241,10 +8618,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -9352,10 +8725,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -9471,10 +8840,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -9584,10 +8949,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -9691,10 +9052,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -9810,10 +9167,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -9925,10 +9278,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -10145,10 +9494,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -10252,10 +9597,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -10464,10 +9805,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -10571,10 +9908,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -10690,10 +10023,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -10797,10 +10126,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -10916,10 +10241,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -11031,10 +10352,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -11247,10 +10564,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -11362,10 +10675,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -11590,10 +10899,6 @@
                 "shares": 208
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -11703,10 +11008,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -11806,10 +11107,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -11915,10 +11212,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -12034,10 +11327,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -12147,10 +11436,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -12256,10 +11541,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -12359,10 +11640,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -12470,10 +11747,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -12573,10 +11846,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -12686,10 +11955,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -12805,10 +12070,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -12918,10 +12179,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -13027,10 +12284,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -13130,10 +12383,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -13245,10 +12494,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -13356,10 +12601,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -13479,10 +12720,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -13594,10 +12831,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -13717,10 +12950,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -13824,10 +13053,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -13943,10 +13168,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -14060,10 +13281,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -14170,10 +13387,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 16
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 16
             },
             {
@@ -14286,10 +13499,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -14397,10 +13606,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -14516,10 +13721,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -14631,10 +13832,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -14754,10 +13951,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -14871,10 +14064,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -14981,10 +14170,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 80
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 80
             },
             {
@@ -15202,10 +14387,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -15319,10 +14500,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -15430,10 +14607,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -15642,10 +14815,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -15753,10 +14922,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -15876,10 +15041,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -15991,10 +15152,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -16114,10 +15271,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -16221,10 +15374,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -16344,10 +15493,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -16461,10 +15606,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -16564,10 +15705,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -16784,10 +15921,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -17002,10 +16135,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -17123,10 +16252,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -17242,10 +16367,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -17466,10 +16587,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -17573,10 +16690,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -17686,10 +16799,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -17910,10 +17019,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -18009,10 +17114,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -18128,10 +17229,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -18235,10 +17332,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -18354,10 +17447,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -18467,10 +17556,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -18574,10 +17659,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -18687,10 +17768,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -18911,10 +17988,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -19028,10 +18101,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -19139,10 +18208,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -19256,10 +18321,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -19480,10 +18541,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -19702,10 +18759,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -19819,10 +18872,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -19928,10 +18977,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -20035,10 +19080,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -20148,10 +19189,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -20485,10 +19522,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -20598,10 +19631,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -20701,10 +19730,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -20820,10 +19845,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -20931,10 +19952,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -21046,10 +20063,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -21153,10 +20166,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -21276,10 +20285,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -21393,10 +20398,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -21503,10 +20504,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 48
             },
             {
@@ -21623,10 +20620,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -21730,10 +20723,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -21849,10 +20838,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -21958,10 +20943,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 16
             },
@@ -22065,10 +21046,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -22301,10 +21278,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -22418,10 +21391,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -22529,10 +21498,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -22646,10 +21611,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -22769,10 +21730,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -22872,10 +21829,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -23100,10 +22053,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -23217,10 +22166,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -23328,10 +22273,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -23568,10 +22509,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -23683,10 +22620,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -23806,10 +22739,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -23917,10 +22846,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -24145,10 +23070,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -24252,10 +23173,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -24468,10 +23385,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -24581,10 +23494,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -24688,10 +23597,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -24803,10 +23708,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -24914,10 +23815,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -25037,10 +23934,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -25140,10 +24033,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -25259,10 +24148,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -25366,10 +24251,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -25574,10 +24455,6 @@
                 "shares": 176
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -25689,10 +24566,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -25808,10 +24681,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -25914,10 +24783,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -26038,10 +24903,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -26155,10 +25016,6 @@
                 "shares": 240
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -26268,10 +25125,6 @@
                 "shares": 176
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -26375,10 +25228,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -26488,10 +25337,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -26611,10 +25456,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -26714,10 +25555,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -27047,10 +25884,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -27162,10 +25995,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -27281,10 +26110,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -27390,10 +26215,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -27493,10 +26314,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -27729,10 +26546,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -27842,10 +26655,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -27948,10 +26757,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 48
             },
             {
@@ -28062,10 +26867,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -28181,10 +26982,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -28298,10 +27095,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -28405,10 +27198,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -28520,10 +27309,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -28631,10 +27416,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -28754,10 +27535,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -28869,10 +27646,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -28988,10 +27761,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -29105,10 +27874,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -29216,10 +27981,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -29339,10 +28100,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -29442,10 +28199,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -29561,10 +28314,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -29668,10 +28417,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -29783,10 +28528,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -29890,10 +28631,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -30009,10 +28746,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -30126,10 +28859,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -30237,10 +28966,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -30465,10 +29190,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 240
             },
@@ -30578,10 +29299,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -30677,10 +29394,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -30786,10 +29499,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 160
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -30903,10 +29612,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -31236,10 +29941,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 96
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -31353,10 +30054,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -31448,10 +30145,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -31557,10 +30250,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -31676,10 +30365,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -31779,10 +30464,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -31890,10 +30571,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -31997,10 +30674,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -32116,10 +30789,6 @@
                 "shares": 208
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -32219,10 +30888,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -32342,10 +31007,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -32453,10 +31114,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -32570,10 +31227,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -32790,10 +31443,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -32893,10 +31542,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -33010,10 +31655,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -33238,10 +31879,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -33341,10 +31978,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -33454,10 +32087,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -33573,10 +32202,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -33688,10 +32313,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -33916,10 +32537,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -34029,10 +32646,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -34140,10 +32753,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -34263,10 +32872,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -34374,10 +32979,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -34489,10 +33090,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -34592,10 +33189,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 192
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -34711,10 +33304,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -34824,10 +33413,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -34931,10 +33516,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -35044,10 +33625,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -35163,10 +33740,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -35278,10 +33851,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -35498,10 +34067,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -35601,10 +34166,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -35710,10 +34271,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -35825,10 +34382,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -35936,10 +34489,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -36055,10 +34604,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -36164,10 +34709,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -36267,10 +34808,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -36382,10 +34919,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -36485,10 +35018,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -36709,10 +35238,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -36917,10 +35442,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -37137,10 +35658,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -37254,10 +35771,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -37365,10 +35878,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 96
             },
             {
                 "node": "ITX",
@@ -37480,10 +35989,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -37593,10 +36098,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -37704,10 +36205,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -37823,10 +36320,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -37936,10 +36429,6 @@
                 "shares": 176
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -38039,10 +36528,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -38154,10 +36639,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -38261,10 +36742,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -38378,10 +36855,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -38501,10 +36974,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -38610,10 +37079,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -38717,10 +37182,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -38836,10 +37297,6 @@
         "date": "2026-02-13T21:10:00.000Z",
         "nodes": [
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -38943,10 +37400,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -39062,10 +37515,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -39165,10 +37614,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -39284,10 +37729,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -39391,10 +37832,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -39619,10 +38056,6 @@
                 "shares": 176
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -39726,10 +38159,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -39849,10 +38278,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -39962,10 +38387,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -40071,10 +38492,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -40174,10 +38591,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -40297,10 +38710,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -40406,10 +38815,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -40513,10 +38918,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -40947,10 +39348,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -41060,10 +39457,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -41163,10 +39556,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -41282,10 +39671,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -41389,10 +39774,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -41512,10 +39893,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -41623,10 +40000,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -41847,10 +40220,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -41962,10 +40331,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -42081,10 +40446,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -42192,10 +40553,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -42404,10 +40761,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -42515,10 +40868,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -42632,10 +40981,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -42846,10 +41191,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -43155,10 +41496,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -43262,10 +41599,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -43379,10 +41712,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -43603,10 +41932,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -43702,10 +42027,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -43930,10 +42251,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -44045,10 +42362,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -44164,10 +42477,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -44277,10 +42586,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "KHOACDHA02",
                 "shares": 16
             },
@@ -44388,10 +42693,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -44511,10 +42812,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -44624,10 +42921,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 224
             },
@@ -44730,10 +43023,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 16
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 16
             },
             {
@@ -44854,10 +43143,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -44965,10 +43250,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -45197,10 +43478,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -45300,10 +43577,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -45408,10 +43681,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -45730,10 +43999,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -45833,10 +44098,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -45948,10 +44209,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -46051,10 +44308,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -46164,10 +44417,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -46287,10 +44536,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -46394,10 +44639,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -46509,10 +44750,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -46620,10 +44857,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -46739,10 +44972,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -46849,10 +45078,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -47175,10 +45400,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -47282,10 +45503,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -47514,10 +45731,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -47631,10 +45844,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -47738,10 +45947,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -47851,10 +46056,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -48071,10 +46272,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -48186,10 +46383,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -48410,10 +46603,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -48521,10 +46710,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -48640,10 +46825,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -48755,10 +46936,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -48876,10 +47053,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -49090,10 +47263,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -49318,10 +47487,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -49433,10 +47598,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -49556,10 +47717,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -49659,10 +47816,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -49776,10 +47929,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -49988,10 +48137,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -50095,10 +48240,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -50432,10 +48573,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -50553,10 +48690,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -50668,10 +48801,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -50791,10 +48920,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -50905,10 +49030,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 16
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 16
             },
             {
@@ -51025,10 +49146,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -51128,10 +49245,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -51247,10 +49360,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -51356,10 +49465,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -51463,10 +49568,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -51576,10 +49677,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -51695,10 +49792,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -51812,10 +49905,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -51921,10 +50010,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -52024,10 +50109,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -52133,10 +50214,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -52256,10 +50333,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -52369,10 +50442,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -52480,10 +50549,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -52599,10 +50664,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -52706,10 +50767,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -52819,10 +50876,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -53031,10 +51084,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -53148,10 +51197,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -53263,10 +51308,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -53491,10 +51532,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -53602,10 +51639,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -53719,10 +51752,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -53939,10 +51968,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -54052,10 +52077,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -54158,10 +52179,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -54268,10 +52285,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 160
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -54381,10 +52394,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -54617,10 +52626,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -54734,10 +52739,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -54841,10 +52842,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -55069,10 +53066,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -55172,10 +53165,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -55283,10 +53272,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -55390,10 +53375,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -55503,10 +53484,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -55725,10 +53702,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -55953,10 +53926,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -56063,10 +54032,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -56179,10 +54144,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -56288,10 +54249,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -56391,10 +54348,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -56619,10 +54572,6 @@
                 "shares": 16
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -56736,10 +54685,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -56849,10 +54794,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 128
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -56952,10 +54893,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -57065,10 +55002,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -57184,10 +55117,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -57295,10 +55224,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -57410,10 +55335,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -57523,10 +55444,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -57626,10 +55543,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -57735,10 +55648,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -57850,10 +55759,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -57961,10 +55866,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -58076,10 +55977,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -58187,10 +56084,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -58302,10 +56195,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -58405,10 +56294,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -58621,10 +56506,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -58833,10 +56714,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -59061,10 +56938,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -59174,10 +57047,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -59273,10 +57142,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -59497,10 +57362,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -59618,10 +57479,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -59727,10 +57584,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -59834,10 +57687,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -59947,10 +57796,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -60064,10 +57909,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -60284,10 +58125,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -60391,10 +58228,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 160
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -60510,10 +58343,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -60617,10 +58446,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -60738,10 +58563,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -60962,10 +58783,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -61077,10 +58894,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -61309,10 +59122,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -61412,10 +59221,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -61640,10 +59445,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -61751,10 +59552,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -61870,10 +59667,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -61985,10 +59778,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -62209,10 +59998,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -62324,10 +60109,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -62445,10 +60226,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -62665,10 +60442,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 208
             },
@@ -62786,10 +60559,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -62897,10 +60666,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -63117,10 +60882,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -63227,10 +60988,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 16
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 16
             },
             {
@@ -63347,10 +61104,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -63458,10 +61211,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -63573,10 +61322,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -63682,10 +61427,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -63789,10 +61530,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -63910,10 +61647,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -64138,10 +61871,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -64241,10 +61970,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 176
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -64350,10 +62075,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -64469,10 +62190,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -64572,10 +62289,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -64685,10 +62398,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -64804,10 +62513,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -64907,10 +62612,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -65022,10 +62723,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 80
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -65125,10 +62822,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 176
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -65347,10 +63040,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -65575,10 +63264,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -65686,10 +63371,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 32
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -65805,10 +63486,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -65920,10 +63597,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -66039,10 +63712,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -66148,10 +63817,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -66251,10 +63916,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -66364,10 +64025,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -66483,10 +64140,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -66594,10 +64247,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -66717,10 +64366,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 32
             },
@@ -66828,10 +64473,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -66943,10 +64584,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -67052,10 +64689,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -67159,10 +64792,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -67272,10 +64901,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -67391,10 +65016,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -67502,10 +65123,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -67847,10 +65464,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -67950,10 +65563,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 176
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -68067,10 +65676,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -68293,10 +65898,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -68622,10 +66223,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -68739,10 +66336,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -68852,10 +66445,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -68963,10 +66552,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -69082,10 +66667,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -69193,10 +66774,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -69413,10 +66990,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -69524,10 +67097,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -69639,10 +67208,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -69750,10 +67315,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -69962,10 +67523,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -70073,10 +67630,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -70192,10 +67745,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -70299,10 +67848,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -70418,10 +67963,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -70525,10 +68066,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -70636,10 +68173,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -70743,10 +68276,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -70860,10 +68389,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -71084,10 +68609,6 @@
                 "shares": 176
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -71186,10 +68707,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 80
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 80
             },
             {
@@ -71304,10 +68821,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -71427,10 +68940,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -71542,10 +69051,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -71774,10 +69279,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -71895,10 +69396,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -72009,10 +69506,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 48
             },
             {
@@ -72242,10 +69735,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -72349,10 +69838,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -72462,10 +69947,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -72585,10 +70066,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -72692,10 +70169,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -72811,10 +70284,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -72918,10 +70387,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -73037,10 +70502,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -73144,10 +70605,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -73261,10 +70718,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -73477,10 +70930,6 @@
         "date": "2026-02-16T00:40:00.000Z",
         "nodes": [
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -73594,10 +71043,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -73697,10 +71142,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -73816,10 +71257,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -73931,10 +71368,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -74050,10 +71483,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -74161,10 +71590,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -74277,10 +71702,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 48
             },
             {
@@ -74397,10 +71818,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 160
             },
@@ -74504,10 +71921,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 16
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -74617,10 +72030,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 144
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 80
             },
             {
                 "node": "ITX",
@@ -74736,10 +72145,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -74847,10 +72252,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 176
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -74970,10 +72371,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -75081,10 +72478,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -75200,10 +72593,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -75315,10 +72704,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -75535,10 +72920,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -75646,10 +73027,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -75765,10 +73142,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -75872,10 +73245,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -75991,10 +73360,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -76098,10 +73463,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -76314,10 +73675,6 @@
                 "shares": 144
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -76429,10 +73786,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -76548,10 +73901,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -76650,10 +73999,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 48
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 48
             },
             {
@@ -76770,10 +74115,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -76879,10 +74220,6 @@
                 "shares": 32
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 80
             },
@@ -76978,10 +74315,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -77091,10 +74424,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 160
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -77210,10 +74539,6 @@
                 "shares": 128
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 192
             },
@@ -77321,10 +74646,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -77436,10 +74757,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -77547,10 +74864,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -77662,10 +74975,6 @@
                 "shares": 112
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 208
             },
@@ -77773,10 +75082,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 160
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 64
             },
             {
                 "node": "ITX",
@@ -77888,10 +75193,6 @@
                 "shares": 96
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -77995,10 +75296,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -78114,10 +75411,6 @@
                 "shares": 192
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 176
             },
@@ -78229,10 +75522,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 48
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -78457,10 +75746,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 48
             },
@@ -78574,10 +75859,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 64
-            },
-            {
                 "node": "ITX",
                 "shares": 64
             },
@@ -78681,10 +75962,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 80
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -78800,10 +76077,6 @@
                 "shares": 80
             },
             {
-                "node": "ITLIDC",
-                "shares": 16
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -78906,10 +76179,6 @@
         "nodes": [
             {
                 "node": "ITLGATEWAY",
-                "shares": 32
-            },
-            {
-                "node": "ITLIDC",
                 "shares": 32
             },
             {
@@ -79139,10 +76408,6 @@
                 "shares": 160
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 128
             },
@@ -79246,10 +76511,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 96
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 32
             },
             {
                 "node": "ITX",
@@ -79365,10 +76626,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 96
             },
@@ -79472,10 +76729,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 64
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 48
             },
             {
                 "node": "ITX",
@@ -79809,10 +77062,6 @@
                 "shares": 48
             },
             {
-                "node": "ITLIDC",
-                "shares": 32
-            },
-            {
                 "node": "ITX",
                 "shares": 112
             },
@@ -79918,10 +77167,6 @@
                 "shares": 64
             },
             {
-                "node": "ITLIDC",
-                "shares": 48
-            },
-            {
                 "node": "ITX",
                 "shares": 144
             },
@@ -80021,10 +77266,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 112
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -80130,10 +77371,6 @@
             {
                 "node": "ITLGATEWAY",
                 "shares": 128
-            },
-            {
-                "node": "ITLIDC",
-                "shares": 16
             },
             {
                 "node": "ITX",
@@ -112490,6 +109727,123 @@
             {
                 "node": "WORKERS2",
                 "shares": 160
+            }
+        ]
+    },
+    "1771416000000": {
+        "date": "2026-02-18T12:00:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "ITX",
+                "shares": 144
+            },
+            {
+                "node": "KHOACDHA02",
+                "shares": 16
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 48
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 96
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 48
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 32
+            },
+            {
+                "node": "WORKER02",
+                "shares": 80
+            },
+            {
+                "node": "WORKER07",
+                "shares": 16
+            },
+            {
+                "node": "WORKER08",
+                "shares": 80
+            },
+            {
+                "node": "WORKER09",
+                "shares": 160
+            },
+            {
+                "node": "WORKER10",
+                "shares": 320
+            },
+            {
+                "node": "WORKER13",
+                "shares": 144
+            },
+            {
+                "node": "WORKER14",
+                "shares": 144
+            },
+            {
+                "node": "WORKER15",
+                "shares": 32
+            },
+            {
+                "node": "WORKER16",
+                "shares": 48
+            },
+            {
+                "node": "WORKER17",
+                "shares": 48
+            },
+            {
+                "node": "WORKER18",
+                "shares": 32
+            },
+            {
+                "node": "WORKER20",
+                "shares": 128
+            },
+            {
+                "node": "WORKER21",
+                "shares": 144
+            },
+            {
+                "node": "WORKER22",
+                "shares": 128
+            },
+            {
+                "node": "WORKER23",
+                "shares": 256
+            },
+            {
+                "node": "WORKER24",
+                "shares": 208
+            },
+            {
+                "node": "WORKERARM",
+                "shares": 16
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 48
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 48
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 32
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 80
             }
         ]
     }
