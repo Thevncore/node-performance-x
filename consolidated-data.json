@@ -109527,5 +109527,30 @@
                 "shares": 16
             }
         ]
+    },
+    "1775443800000": {
+        "date": "2026-04-06T02:50:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 160
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 32
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 176
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 32
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 16
+            }
+        ]
     }
 }
