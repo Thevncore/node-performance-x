@@ -67867,5 +67867,54 @@
                 "shares": 32
             }
         ]
+    },
+    "1777201800000": {
+        "date": "2026-04-26T11:10:00.000Z",
+        "nodes": [
+            {
+                "node": "ITX",
+                "shares": 96
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 112
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 192
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 16
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 16
+            },
+            {
+                "node": "WORKER02",
+                "shares": 16
+            },
+            {
+                "node": "WORKER08",
+                "shares": 32
+            },
+            {
+                "node": "WORKER14",
+                "shares": 192
+            },
+            {
+                "node": "WORKER15",
+                "shares": 32
+            },
+            {
+                "node": "WORKER24",
+                "shares": 160
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 16
+            }
+        ]
     }
 }
