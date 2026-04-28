@@ -61106,5 +61106,62 @@
                 "shares": 32
             }
         ]
+    },
+    "1777383600000": {
+        "date": "2026-04-28T13:40:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "ITX",
+                "shares": 160
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 240
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 48
+            },
+            {
+                "node": "SUPPORT2",
+                "shares": 32
+            },
+            {
+                "node": "WORKER02",
+                "shares": 64
+            },
+            {
+                "node": "WORKER07",
+                "shares": 48
+            },
+            {
+                "node": "WORKER08",
+                "shares": 32
+            },
+            {
+                "node": "WORKER14",
+                "shares": 160
+            },
+            {
+                "node": "WORKER15",
+                "shares": 48
+            },
+            {
+                "node": "WORKER16",
+                "shares": 32
+            },
+            {
+                "node": "WORKER24",
+                "shares": 240
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 32
+            }
+        ]
     }
 }
