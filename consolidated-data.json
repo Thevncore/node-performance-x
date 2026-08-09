@@ -1,343 +1,4 @@
 {
-    "1785711600000": {
-        "date": "2026-08-02T23:00:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 112
-            },
-            {
-                "node": "KHOACDHA02",
-                "shares": 32
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 16
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 144
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 32
-            },
-            {
-                "node": "WORKER01",
-                "shares": 32
-            },
-            {
-                "node": "WORKER02",
-                "shares": 48
-            },
-            {
-                "node": "WORKER07",
-                "shares": 64
-            },
-            {
-                "node": "WORKER08",
-                "shares": 32
-            },
-            {
-                "node": "WORKER09",
-                "shares": 112
-            },
-            {
-                "node": "WORKER10",
-                "shares": 256
-            },
-            {
-                "node": "WORKER13",
-                "shares": 80
-            },
-            {
-                "node": "WORKER14",
-                "shares": 128
-            },
-            {
-                "node": "WORKER17",
-                "shares": 64
-            },
-            {
-                "node": "WORKER19",
-                "shares": 48
-            },
-            {
-                "node": "WORKER20",
-                "shares": 144
-            },
-            {
-                "node": "WORKER21",
-                "shares": 160
-            },
-            {
-                "node": "WORKER22",
-                "shares": 160
-            },
-            {
-                "node": "WORKER23",
-                "shares": 224
-            },
-            {
-                "node": "WORKER24",
-                "shares": 176
-            },
-            {
-                "node": "WORKER25",
-                "shares": 192
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 32
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 48
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 96
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 160
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 192
-            }
-        ]
-    },
-    "1785712200000": {
-        "date": "2026-08-02T23:10:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 128
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 48
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 64
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 48
-            },
-            {
-                "node": "WORKER02",
-                "shares": 32
-            },
-            {
-                "node": "WORKER07",
-                "shares": 32
-            },
-            {
-                "node": "WORKER08",
-                "shares": 80
-            },
-            {
-                "node": "WORKER09",
-                "shares": 192
-            },
-            {
-                "node": "WORKER10",
-                "shares": 192
-            },
-            {
-                "node": "WORKER13",
-                "shares": 144
-            },
-            {
-                "node": "WORKER14",
-                "shares": 128
-            },
-            {
-                "node": "WORKER17",
-                "shares": 64
-            },
-            {
-                "node": "WORKER20",
-                "shares": 160
-            },
-            {
-                "node": "WORKER21",
-                "shares": 96
-            },
-            {
-                "node": "WORKER22",
-                "shares": 192
-            },
-            {
-                "node": "WORKER23",
-                "shares": 176
-            },
-            {
-                "node": "WORKER24",
-                "shares": 128
-            },
-            {
-                "node": "WORKER25",
-                "shares": 272
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 32
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 16
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 16
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 96
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 64
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 16
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 128
-            }
-        ]
-    },
-    "1785712800000": {
-        "date": "2026-08-02T23:20:00.000Z",
-        "nodes": [
-            {
-                "node": "ITLGATEWAY",
-                "shares": 128
-            },
-            {
-                "node": "LONGKHANH",
-                "shares": 96
-            },
-            {
-                "node": "PORTALDB",
-                "shares": 96
-            },
-            {
-                "node": "PORTALLB",
-                "shares": 64
-            },
-            {
-                "node": "WORKER07",
-                "shares": 32
-            },
-            {
-                "node": "WORKER08",
-                "shares": 32
-            },
-            {
-                "node": "WORKER09",
-                "shares": 208
-            },
-            {
-                "node": "WORKER10",
-                "shares": 240
-            },
-            {
-                "node": "WORKER13",
-                "shares": 144
-            },
-            {
-                "node": "WORKER14",
-                "shares": 96
-            },
-            {
-                "node": "WORKER17",
-                "shares": 16
-            },
-            {
-                "node": "WORKER19",
-                "shares": 48
-            },
-            {
-                "node": "WORKER20",
-                "shares": 224
-            },
-            {
-                "node": "WORKER21",
-                "shares": 208
-            },
-            {
-                "node": "WORKER22",
-                "shares": 208
-            },
-            {
-                "node": "WORKER23",
-                "shares": 112
-            },
-            {
-                "node": "WORKER24",
-                "shares": 160
-            },
-            {
-                "node": "WORKER25",
-                "shares": 224
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 32
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 32
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 64
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 128
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 128
-            }
-        ]
-    },
     "1785713400000": {
         "date": "2026-08-02T23:30:00.000Z",
         "nodes": [
@@ -10927,10 +10588,6 @@
                 "shares": 144
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -11034,10 +10691,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -11270,10 +10923,6 @@
                 "shares": 128
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER20",
                 "shares": 160
             },
@@ -11387,10 +11036,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -11498,10 +11143,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -11621,10 +11262,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 96
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -11732,10 +11369,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 112
             },
             {
                 "node": "WORKER19",
@@ -11855,10 +11488,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER20",
                 "shares": 160
             },
@@ -11970,10 +11599,6 @@
             {
                 "node": "WORKER17",
                 "shares": 32
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -41091,10 +40716,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER20",
                 "shares": 176
             },
@@ -69496,10 +69117,6 @@
                 "shares": 112
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -69621,10 +69238,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -69731,10 +69344,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 16
-            },
-            {
-                "node": "WORKER18",
                 "shares": 16
             },
             {
@@ -69847,10 +69456,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER20",
                 "shares": 96
             },
@@ -69960,10 +69565,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -70066,10 +69667,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 32
-            },
-            {
-                "node": "WORKER18",
                 "shares": 32
             },
             {
@@ -70180,10 +69777,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
             },
             {
                 "node": "WORKER19",
@@ -70307,10 +69900,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -70426,10 +70015,6 @@
             {
                 "node": "WORKER14",
                 "shares": 176
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -70549,10 +70134,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -70660,10 +70241,6 @@
             {
                 "node": "WORKER14",
                 "shares": 160
-            },
-            {
-                "node": "WORKER18",
-                "shares": 80
             },
             {
                 "node": "WORKER19",
@@ -70783,10 +70360,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER20",
                 "shares": 112
             },
@@ -70901,10 +70474,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 16
-            },
-            {
-                "node": "WORKER18",
                 "shares": 16
             },
             {
@@ -71029,10 +70598,6 @@
                 "shares": 80
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -71142,10 +70707,6 @@
                 "shares": 96
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -71253,10 +70814,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 80
             },
             {
                 "node": "WORKER19",
@@ -71376,10 +70933,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -71491,10 +71044,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -71614,10 +71163,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -71735,10 +71280,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 96
             },
@@ -71852,10 +71393,6 @@
                 "shares": 224
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 80
             },
@@ -71966,10 +71503,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 64
-            },
-            {
-                "node": "WORKER18",
                 "shares": 64
             },
             {
@@ -72090,10 +71623,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 64
             },
@@ -72209,10 +71738,6 @@
             {
                 "node": "WORKER17",
                 "shares": 64
-            },
-            {
-                "node": "WORKER18",
-                "shares": 48
             },
             {
                 "node": "WORKER19",
@@ -72336,10 +71861,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -72453,10 +71974,6 @@
                 "shares": 112
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 96
             },
@@ -72564,10 +72081,6 @@
             {
                 "node": "WORKER14",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -72687,10 +72200,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER20",
                 "shares": 240
             },
@@ -72802,10 +72311,6 @@
             {
                 "node": "WORKER17",
                 "shares": 64
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -72929,10 +72434,6 @@
                 "shares": 80
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -73050,10 +72551,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -73165,10 +72662,6 @@
             {
                 "node": "WORKER17",
                 "shares": 64
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -73288,10 +72781,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -73402,10 +72891,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 80
-            },
-            {
-                "node": "WORKER18",
                 "shares": 80
             },
             {
@@ -73522,10 +73007,6 @@
                 "shares": 192
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -73637,10 +73118,6 @@
             {
                 "node": "WORKER17",
                 "shares": 32
-            },
-            {
-                "node": "WORKER18",
-                "shares": 80
             },
             {
                 "node": "WORKER19",
@@ -73756,10 +73233,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 64
             },
@@ -73867,10 +73340,6 @@
             {
                 "node": "WORKER17",
                 "shares": 96
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
             },
             {
                 "node": "WORKER19",
@@ -73990,10 +73459,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 96
             },
@@ -74093,10 +73558,6 @@
             {
                 "node": "WORKER14",
                 "shares": 160
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
             },
             {
                 "node": "WORKER19",
@@ -74208,10 +73669,6 @@
                 "shares": 80
             },
             {
-                "node": "WORKER18",
-                "shares": 96
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -74315,10 +73772,6 @@
             {
                 "node": "WORKER17",
                 "shares": 64
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -74434,10 +73887,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -74549,10 +73998,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
             },
             {
                 "node": "WORKER19",
@@ -74672,10 +74117,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -74787,10 +74228,6 @@
             {
                 "node": "WORKER17",
                 "shares": 32
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -74906,10 +74343,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -75023,10 +74456,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 64
             },
@@ -75138,10 +74567,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -75258,10 +74683,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 16
-            },
-            {
-                "node": "WORKER18",
                 "shares": 16
             },
             {
@@ -75382,10 +74803,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -75497,10 +74914,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -75620,10 +75033,6 @@
                 "shares": 96
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -75739,10 +75148,6 @@
             {
                 "node": "WORKER17",
                 "shares": 96
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -75971,10 +75376,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 80
             },
@@ -76092,10 +75493,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 80
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -76199,10 +75596,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -76319,10 +75712,6 @@
             },
             {
                 "node": "WORKER17",
-                "shares": 32
-            },
-            {
-                "node": "WORKER18",
                 "shares": 32
             },
             {
@@ -76447,10 +75836,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -76554,10 +75939,6 @@
             {
                 "node": "WORKER14",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 96
             },
             {
                 "node": "WORKER20",
@@ -76671,10 +76052,6 @@
             {
                 "node": "WORKER17",
                 "shares": 32
-            },
-            {
-                "node": "WORKER18",
-                "shares": 48
             },
             {
                 "node": "WORKER19",
@@ -76798,10 +76175,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 96
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -76919,10 +76292,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -77036,10 +76405,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 48
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -77139,10 +76504,6 @@
             {
                 "node": "WORKER17",
                 "shares": 32
-            },
-            {
-                "node": "WORKER18",
-                "shares": 80
             },
             {
                 "node": "WORKER19",
@@ -77262,10 +76623,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -77373,10 +76730,6 @@
             {
                 "node": "WORKER14",
                 "shares": 64
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -77492,10 +76845,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 80
             },
@@ -77607,10 +76956,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -77734,10 +77079,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 48
             },
@@ -77849,10 +77190,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -77972,10 +77309,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 64
             },
@@ -78087,10 +77420,6 @@
             {
                 "node": "WORKER17",
                 "shares": 16
-            },
-            {
-                "node": "WORKER18",
-                "shares": 80
             },
             {
                 "node": "WORKER19",
@@ -78214,10 +77543,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER20",
                 "shares": 144
             },
@@ -78327,10 +77652,6 @@
                 "shares": 32
             },
             {
-                "node": "WORKER18",
-                "shares": 96
-            },
-            {
                 "node": "WORKER20",
                 "shares": 240
             },
@@ -78438,10 +77759,6 @@
             {
                 "node": "WORKER17",
                 "shares": 80
-            },
-            {
-                "node": "WORKER18",
-                "shares": 48
             },
             {
                 "node": "WORKER19",
@@ -78555,10 +77872,6 @@
             {
                 "node": "WORKER14",
                 "shares": 144
-            },
-            {
-                "node": "WORKER18",
-                "shares": 32
             },
             {
                 "node": "WORKER19",
@@ -78682,10 +77995,6 @@
                 "shares": 16
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -78797,10 +78106,6 @@
             {
                 "node": "WORKER17",
                 "shares": 80
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
             },
             {
                 "node": "WORKER19",
@@ -78916,10 +78221,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -79033,10 +78334,6 @@
                 "shares": 64
             },
             {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
                 "node": "WORKER19",
                 "shares": 32
             },
@@ -79146,10 +78443,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 16
-            },
-            {
                 "node": "WORKER19",
                 "shares": 64
             },
@@ -79257,10 +78550,6 @@
             {
                 "node": "WORKER17",
                 "shares": 96
-            },
-            {
-                "node": "WORKER18",
-                "shares": 112
             },
             {
                 "node": "WORKER19",
@@ -79376,10 +78665,6 @@
                 "shares": 48
             },
             {
-                "node": "WORKER18",
-                "shares": 32
-            },
-            {
                 "node": "WORKER19",
                 "shares": 16
             },
@@ -79491,10 +78776,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 16
             },
             {
                 "node": "WORKER19",
@@ -111814,6 +111095,111 @@
             {
                 "node": "WORKERS2",
                 "shares": 144
+            }
+        ]
+    },
+    "1786317600000": {
+        "date": "2026-08-09T23:20:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 128
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 32
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 192
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 32
+            },
+            {
+                "node": "WORKER01",
+                "shares": 32
+            },
+            {
+                "node": "WORKER02",
+                "shares": 80
+            },
+            {
+                "node": "WORKER07",
+                "shares": 96
+            },
+            {
+                "node": "WORKER08",
+                "shares": 32
+            },
+            {
+                "node": "WORKER09",
+                "shares": 96
+            },
+            {
+                "node": "WORKER10",
+                "shares": 192
+            },
+            {
+                "node": "WORKER13",
+                "shares": 64
+            },
+            {
+                "node": "WORKER14",
+                "shares": 48
+            },
+            {
+                "node": "WORKER19",
+                "shares": 32
+            },
+            {
+                "node": "WORKER20",
+                "shares": 176
+            },
+            {
+                "node": "WORKER22",
+                "shares": 128
+            },
+            {
+                "node": "WORKER23",
+                "shares": 112
+            },
+            {
+                "node": "WORKER24",
+                "shares": 128
+            },
+            {
+                "node": "WORKER25",
+                "shares": 208
+            },
+            {
+                "node": "WORKERE1",
+                "shares": 32
+            },
+            {
+                "node": "WORKERE2",
+                "shares": 48
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 80
+            },
+            {
+                "node": "WORKERITX",
+                "shares": 160
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 32
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 112
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 176
             }
         ]
     }
