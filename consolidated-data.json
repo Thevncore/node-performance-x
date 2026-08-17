@@ -53,62 +53,6 @@
             {
                 "node": "WORKER17",
                 "shares": 48
-            },
-            {
-                "node": "WORKER18",
-                "shares": 64
-            },
-            {
-                "node": "WORKER19",
-                "shares": 32
-            },
-            {
-                "node": "WORKER20",
-                "shares": 128
-            },
-            {
-                "node": "WORKER22",
-                "shares": 144
-            },
-            {
-                "node": "WORKER23",
-                "shares": 128
-            },
-            {
-                "node": "WORKER24",
-                "shares": 240
-            },
-            {
-                "node": "WORKER25",
-                "shares": 400
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 80
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 32
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 144
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 32
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 96
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 80
             }
         ]
     },
@@ -186,42 +130,6 @@
             {
                 "node": "WORKER23",
                 "shares": 288
-            },
-            {
-                "node": "WORKER24",
-                "shares": 128
-            },
-            {
-                "node": "WORKER25",
-                "shares": 224
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 16
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 96
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 96
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 64
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 128
             }
         ]
     },
@@ -315,30 +223,6 @@
             {
                 "node": "WORKER25",
                 "shares": 192
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 64
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 32
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 128
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 16
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 96
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 176
             }
         ]
     },
@@ -412,54 +296,6 @@
             {
                 "node": "WORKER20",
                 "shares": 192
-            },
-            {
-                "node": "WORKER22",
-                "shares": 224
-            },
-            {
-                "node": "WORKER23",
-                "shares": 96
-            },
-            {
-                "node": "WORKER24",
-                "shares": 192
-            },
-            {
-                "node": "WORKER25",
-                "shares": 256
-            },
-            {
-                "node": "WORKERARM",
-                "shares": 32
-            },
-            {
-                "node": "WORKERE1",
-                "shares": 48
-            },
-            {
-                "node": "WORKERE2",
-                "shares": 32
-            },
-            {
-                "node": "WORKERH1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERITX",
-                "shares": 112
-            },
-            {
-                "node": "WORKERQTSC",
-                "shares": 16
-            },
-            {
-                "node": "WORKERS1",
-                "shares": 64
-            },
-            {
-                "node": "WORKERS2",
-                "shares": 64
             }
         ]
     },
@@ -120694,6 +120530,115 @@
             {
                 "node": "WORKERS2",
                 "shares": 144
+            }
+        ]
+    },
+    "1786994400000": {
+        "date": "2026-08-17T19:20:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 64
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 128
+            },
+            {
+                "node": "WORKER01",
+                "shares": 32
+            },
+            {
+                "node": "WORKER02",
+                "shares": 48
+            },
+            {
+                "node": "WORKER07",
+                "shares": 64
+            },
+            {
+                "node": "WORKER08",
+                "shares": 16
+            },
+            {
+                "node": "WORKER13",
+                "shares": 112
+            },
+            {
+                "node": "WORKER14",
+                "shares": 144
+            },
+            {
+                "node": "WORKER15",
+                "shares": 48
+            },
+            {
+                "node": "WORKER17",
+                "shares": 16
+            },
+            {
+                "node": "WORKER18",
+                "shares": 96
+            },
+            {
+                "node": "WORKER19",
+                "shares": 16
+            },
+            {
+                "node": "WORKER20",
+                "shares": 96
+            },
+            {
+                "node": "WORKER21",
+                "shares": 128
+            },
+            {
+                "node": "WORKER22",
+                "shares": 112
+            },
+            {
+                "node": "WORKER23",
+                "shares": 176
+            },
+            {
+                "node": "WORKER24",
+                "shares": 240
+            },
+            {
+                "node": "WORKER25",
+                "shares": 352
+            },
+            {
+                "node": "WORKERE1",
+                "shares": 16
+            },
+            {
+                "node": "WORKERE2",
+                "shares": 32
+            },
+            {
+                "node": "WORKERH1",
+                "shares": 48
+            },
+            {
+                "node": "WORKERITX",
+                "shares": 160
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 16
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 112
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 112
             }
         ]
     }
