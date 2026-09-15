@@ -75459,5 +75459,78 @@
                 "shares": 128
             }
         ]
+    },
+    "1789480200000": {
+        "date": "2026-09-15T13:50:00.000Z",
+        "nodes": [
+            {
+                "node": "ITLGATEWAY",
+                "shares": 80
+            },
+            {
+                "node": "LONGKHANH",
+                "shares": 64
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 48
+            },
+            {
+                "node": "PORTALLB",
+                "shares": 48
+            },
+            {
+                "node": "WORKER02",
+                "shares": 32
+            },
+            {
+                "node": "WORKER07",
+                "shares": 32
+            },
+            {
+                "node": "WORKER08",
+                "shares": 80
+            },
+            {
+                "node": "WORKER15",
+                "shares": 80
+            },
+            {
+                "node": "WORKER19",
+                "shares": 64
+            },
+            {
+                "node": "WORKER21",
+                "shares": 176
+            },
+            {
+                "node": "WORKER24",
+                "shares": 144
+            },
+            {
+                "node": "WORKER25",
+                "shares": 224
+            },
+            {
+                "node": "WORKERE1",
+                "shares": 80
+            },
+            {
+                "node": "WORKERE2",
+                "shares": 16
+            },
+            {
+                "node": "WORKERITX",
+                "shares": 128
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 96
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 160
+            }
+        ]
     }
 }
