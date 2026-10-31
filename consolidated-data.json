@@ -114591,5 +114591,66 @@
                 "shares": 16
             }
         ]
+    },
+    "1793486400000": {
+        "date": "2026-10-31T22:40:00.000Z",
+        "nodes": [
+            {
+                "node": "LONGKHANH",
+                "shares": 48
+            },
+            {
+                "node": "PORTALDB",
+                "shares": 128
+            },
+            {
+                "node": "WORKER01",
+                "shares": 16
+            },
+            {
+                "node": "WORKER02",
+                "shares": 16
+            },
+            {
+                "node": "WORKER07",
+                "shares": 80
+            },
+            {
+                "node": "WORKER08",
+                "shares": 48
+            },
+            {
+                "node": "WORKER19",
+                "shares": 16
+            },
+            {
+                "node": "WORKER24",
+                "shares": 64
+            },
+            {
+                "node": "WORKERE1",
+                "shares": 80
+            },
+            {
+                "node": "WORKERE2",
+                "shares": 32
+            },
+            {
+                "node": "WORKERITX",
+                "shares": 64
+            },
+            {
+                "node": "WORKERQTSC",
+                "shares": 80
+            },
+            {
+                "node": "WORKERS1",
+                "shares": 80
+            },
+            {
+                "node": "WORKERS2",
+                "shares": 112
+            }
+        ]
     }
 }
